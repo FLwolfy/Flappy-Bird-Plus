@@ -19,7 +19,7 @@ To run this code, follow these simple steps:
 
 ## About the Game
 
-Flappy Bird Plus is a BK PROJ for DKU CS 201. This add on some special features based on the original game.
+Flappy Bird Plus is a BK PROJ for DKU CS 201. This adds on some special features based on the original game.
 
 ## Requirements
 
