@@ -31,8 +31,8 @@ Flappy Bird Plus is a BK PROJ for DKU CS 201. This adds on some special features
 
 Make sure you have Java installed (>=jdk.16) on your system to run the game successfully.
 
-## Contribution
+## Notes
 
-Feel free to contribute to the project by submitting bug reports or suggesting improvements. We welcome your feedback and ideas to make Flappy Bird Plus even better.
+This is a course HW. Feel free to contribute to the project by submitting bug reports or suggesting improvements. We welcome your feedback and ideas to make Flappy Bird Plus even better.
 
 Happy gaming! 🎮
