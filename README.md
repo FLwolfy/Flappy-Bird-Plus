@@ -1,7 +1,9 @@
 # Flappy Bird Plus
 
-Welcome to Flappy Bird Plus, an advanced version of the classic Flappy Bird Game developed for CS 201 BK PROJ.
-![Preview](Preview.gif)
+Welcome to Flappy Bird Plus, an advanced version of the classic Flappy Bird Game developed for CS 201 BK PROJ. Here is the preview:
+<div align="center">
+  <img src="Preview.gif" alt="Preview">
+</div>
 
 ## How to Run
 
