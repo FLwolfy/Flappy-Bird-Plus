@@ -9,13 +9,13 @@ To run this code, follow these simple steps:
 1. Open your terminal or command prompt.
 2. Navigate to the "scripts" directory.
 3. Compile the code by entering the following command:
-   ```bash
-   javac GameManager.java
-   ```
+```bash
+javac GameManager.java
+```
 4. Run the game with the following command:
-   ```bash
-   java GameManager
-   ```
+```bash
+java GameManager
+```
 
 ## About the Game
 
